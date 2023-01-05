@@ -92,5 +92,43 @@
             "Description": "Hyundai Creta with all original documents",
             "Price": 1000000
         }
+    ],
+    "wishlisted_cars" : [
+        {
+            "id": 1,
+            "brand": "Tata",
+            "year": 2019,
+			"type":"Manual",
+            "kms": 10000,
+            "Description": "Tata Altroz with all original documents",
+            "Price": 500000
+        },
+        {
+            "id": 2,
+            "brand": "Tata",
+            "type":"AMT",
+            "year": 2017,
+            "kms": 8000,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 800000
+        },
+        {
+            "id": 3,
+            "brand": "Toyota",
+            "type":"Manual",
+            "year": 2021,
+            "kms": 12056,
+            "Description": "Toyota Urban Cruiser with all original documents",
+            "Price": 900000
+        },
+        {
+            "id": 4,
+            "brand": "Toyota",
+            "type":"Manual",
+            "year": 2019,
+            "kms": 22000,
+            "Description": "Toyota Innova with all original documents",
+            "Price": 1500000
+        }
     ]
 }
