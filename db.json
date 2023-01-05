@@ -28,6 +28,69 @@
             "kms": 10000,
             "Description": "Tata Altroz with all original documents",
             "Price": 500000
+        },
+        {
+            "id": 2,
+            "brand": "Tata",
+            "type":"AMT",
+            "year": 2017,
+            "kms": 8000,
+            "Description": "Tata Nexon with all original documents",
+            "Price": 800000
+        },
+        {
+            "id": 3,
+            "brand": "Toyota",
+            "type":"Manual",
+            "year": 2021,
+            "kms": 12056,
+            "Description": "Toyota Urban Cruiser with all original documents",
+            "Price": 900000
+        },
+        {
+            "id": 4,
+            "brand": "Toyota",
+            "type":"Manual",
+            "year": 2019,
+            "kms": 22000,
+            "Description": "Toyota Innova with all original documents",
+            "Price": 1500000
+        },
+        {
+            "id": 5,
+            "brand": "Tata",
+            "type":"Manual",
+            "year": 2013,
+            "kms": 35000,
+            "Description": "Tata Indigo with all original documents",
+            "Price": 200000
+        },
+        {
+            "id": 6,
+            "brand": "Maruti Suzuki",
+            "type":"Manual",
+            "year": 2015,
+            "kms": 25000,
+            "Description": "Maruti Suzuki Celerio with all original documents",
+            "Price": 300000
+        },
+        {
+            "id": 7,
+            "brand": "Maruti Suzuki",
+            "type":"Manual",
+            "year": 2016,
+            "kms": 28000,
+            "Description": "Maruti Suzuki Swift Dzire with all original documents",
+            "Price": 500000
+        },
+        {
+            "id": 8,
+            "brand": "Hyundai",
+            "type":"Manual",
+            "year": 2020,
+            "kms": 15000,
+            "Description": "Hyundai Creta with all original documents",
+            "Price": 1000000
         }
     ]
 }
