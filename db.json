@@ -23,7 +23,7 @@
         {
             "id": 1,
             "brand": "Tata",
-			"type":"Manual",
+            "type": "Manual",
             "year": 2019,
             "kms": 10000,
             "Description": "Tata Altroz with all original documents",
@@ -32,7 +32,7 @@
         {
             "id": 2,
             "brand": "Tata",
-            "type":"AMT",
+            "type": "AMT",
             "year": 2017,
             "kms": 8000,
             "Description": "Tata Nexon with all original documents",
@@ -41,7 +41,7 @@
         {
             "id": 3,
             "brand": "Toyota",
-            "type":"Manual",
+            "type": "Manual",
             "year": 2021,
             "kms": 12056,
             "Description": "Toyota Urban Cruiser with all original documents",
@@ -50,19 +50,19 @@
         {
             "id": 4,
             "brand": "Toyota",
-            "type":"Manual",
+            "type": "Manual",
             "year": 2019,
             "kms": 22000,
             "Description": "Toyota Innova with all original documents",
             "Price": 1500000
         }
     ],
-    "wishlisted_cars" : [
+    "wishlisted_cars": [
         {
             "id": 1,
             "brand": "Tata",
             "year": 2019,
-			"type":"Manual",
+            "type": "Manual",
             "kms": 10000,
             "Description": "Tata Altroz with all original documents",
             "Price": 500000
@@ -70,22 +70,33 @@
         {
             "id": 2,
             "brand": "Tata",
-            "type":"AMT",
+            "type": "AMT",
             "year": 2017,
             "kms": 8000,
             "Description": "Tata Nexon with all original documents",
             "Price": 800000
         }
     ],
-    "users" : [
+    "users": [
         {
-            "id" : 1,
-            "email" : "a@gmail.com",
-            "username" : "a",
-            "password" : "a1"
+            "id": 1,
+            "email": "a@gmail.com",
+            "username": "a",
+            "password": "a1"
         }
     ],
-    "tasks" : [
-        
+    "tasks": [
+        {
+            "task": "learn react",
+            "date": "1/9/2023",
+            "username": "a",
+            "id": 1
+        },
+        {
+            "task": "learn javascript",
+            "date": "1/9/2023",
+            "username": "a",
+            "id": 2
+        }
     ]
 }
