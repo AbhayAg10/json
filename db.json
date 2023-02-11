@@ -112,6 +112,44 @@
                     "content": "Loved It!"
                 }
             ]
+        },
+        {
+            "id": 2,
+            "username": "Abhay",
+            "title": "First Blog",
+            "content": "Hello folks, This is my first blog. Nothing much to say just wanted to say the weather is nice today",
+            "category": "Lifestyle",
+            "date": "2023-02-11",
+            "likes": 2,
+            "comments": [
+                {
+                    "username": "Alok",
+                    "content": "OK"
+                },
+                {
+                    "username": "coreyschafer",
+                    "content": "Nice"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "username": "Alok",
+            "title": "First Blog",
+            "content": "Hello folks, This is my first blog. How are you all today",
+            "category": "Business",
+            "date": "2023-02-01",
+            "likes": 5,
+            "comments": [
+                {
+                    "username": "Abhay",
+                    "content": "OK"
+                },
+                {
+                    "username": "coreyschafer",
+                    "content": "Good"
+                }
+            ]
         }
     ],
     "tasks": [
